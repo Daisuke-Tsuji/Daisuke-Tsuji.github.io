@@ -500,8 +500,9 @@ header {
 
 @media only screen and (max-width: 590px) {
   .features {
-    padding-top: 200px;
+    padding-top: 50px;
     margin-bottom: 50px;
+    margin-top: 150px;
   }
 }
 
