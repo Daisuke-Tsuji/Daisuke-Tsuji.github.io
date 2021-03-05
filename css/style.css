@@ -1259,7 +1259,7 @@ header {
 
 @media only screen and (max-width: 590px) {
   .slider-card__detail {
-    font-size: 0.5rem;
+    font-size: 12px;
   }
 }
 
