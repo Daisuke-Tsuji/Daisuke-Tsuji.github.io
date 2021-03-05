@@ -329,7 +329,7 @@ header{
 	}
 	@include media(s){
 		margin-top: 20px;
-		font-size: 0.5rem;
+		font-size: 12px;
 		line-height: 18px;
 		text-align: center;
 	}
@@ -466,7 +466,7 @@ header{
 		font-size: 0.8rem;
 	}
 	@include media(s){
-		font-size: 0.5rem;
+		font-size: 12px;
 	}
 }
 
@@ -577,11 +577,11 @@ header{
 	font-size: 16px;
 	line-height: 26px;
 	@include media(ml){
-		font-size: 0.6rem;
+		font-size: 0.7rem;
 		line-height: 16px;
 	}
 	@include media(s){
-		font-size: 0.5rem;
+		font-size: 12px;
 		line-height: 16px;
 	}
 }
@@ -638,7 +638,7 @@ header{
 		font-size: 0.8rem;
 	}
 	@include media(s){
-		font-size: 0.5rem;
+		font-size: 12px;
 	}
 }
 
@@ -705,7 +705,7 @@ header{
 .price_res-size {
 	color: #444444;
 	@include media(s){
-		font-size: 1rem;
+		font-size: 0.9rem;
 	}
 }
 
@@ -743,7 +743,7 @@ header{
 		font-size: 0.8rem;
 	}
 	@include media(s){
-		font-size: 0.5rem;
+		font-size: 12px;
 	}
 }
 
@@ -846,7 +846,7 @@ header{
 		font-size: 0.8rem;
 	}
 	@include media(s){
-		font-size: 0.5rem;
+		font-size: 12px;
 	}
 }
 
@@ -952,7 +952,7 @@ header{
 		font-size: 0.8rem;
 	}
 	@include media(s){
-		font-size: 0.5rem;
+		font-size: 12px;
 	}
 }
 
@@ -1045,7 +1045,7 @@ header{
 		font-size: 0.8rem;
 	}
 	@include media(s){
-		font-size: 0.5rem;
+		font-size: 12px;
 	}
 }
 
@@ -1211,7 +1211,7 @@ header{
 	font-weight: normal;
 	margin-bottom: 50px;
 	@include media(m){
-		font-size: 0.8rem;
+		font-size: 0.9rem;
 		margin: 0;
 	}
 }

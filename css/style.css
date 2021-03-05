@@ -384,7 +384,7 @@ header {
 @media only screen and (max-width: 590px) {
   .mv-heading_second-heading {
     margin-top: 20px;
-    font-size: 0.5rem;
+    font-size: 12px;
     line-height: 18px;
     text-align: center;
   }
@@ -559,7 +559,7 @@ header {
 
 @media only screen and (max-width: 590px) {
   .features__title_size_s {
-    font-size: 0.5rem;
+    font-size: 12px;
   }
 }
 
@@ -709,14 +709,14 @@ header {
 
 @media only screen and (max-width: 1366px) {
   .feature-contanar-box__text_s {
-    font-size: 0.6rem;
+    font-size: 0.7rem;
     line-height: 16px;
   }
 }
 
 @media only screen and (max-width: 590px) {
   .feature-contanar-box__text_s {
-    font-size: 0.5rem;
+    font-size: 12px;
     line-height: 16px;
   }
 }
@@ -798,7 +798,7 @@ header {
 
 @media only screen and (max-width: 590px) {
   .price_size_sm {
-    font-size: 0.5rem;
+    font-size: 12px;
   }
 }
 
@@ -880,7 +880,7 @@ header {
 
 @media only screen and (max-width: 590px) {
   .price_res-size {
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
 }
 
@@ -931,7 +931,7 @@ header {
 
 @media only screen and (max-width: 590px) {
   .faq__title-eng {
-    font-size: 0.5rem;
+    font-size: 12px;
   }
 }
 
@@ -1061,7 +1061,7 @@ header {
 
 @media only screen and (max-width: 590px) {
   .blog__eng {
-    font-size: 0.5rem;
+    font-size: 12px;
   }
 }
 
@@ -1193,7 +1193,7 @@ header {
 
 @media only screen and (max-width: 590px) {
   .works__eng {
-    font-size: 0.5rem;
+    font-size: 12px;
   }
 }
 
@@ -1311,7 +1311,7 @@ header {
 
 @media only screen and (max-width: 590px) {
   .contact__eng {
-    font-size: 0.5rem;
+    font-size: 12px;
   }
 }
 
@@ -1515,7 +1515,7 @@ header {
 
 @media only screen and (max-width: 1024px) {
   .footer__copyright {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     margin: 0;
   }
 }
